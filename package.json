@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.1.5",
+    "openai": "^3.2.1",
     "yargs": "^17.7.1"
   }
 }
